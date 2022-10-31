@@ -1,2 +1,2 @@
 # word_chopper
-This is my final exame for python I 
+This is my final exam for python I 
